@@ -1,0 +1,63 @@
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Arial'), local('Arial'), 
+}
+/* cyrillic */
+@font-face {
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local('Arial'), local('Arial'), 
+}
+/* greek-ext */
+@font-face {
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local('Arial'), local('Arial'), 
+}
+/* greek */
+@font-face {
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local('Arial'), local('Arial'), 
+}
+/* vietnamese */
+@font-face {
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local('Arial'), local('Arial'), 
+}
+/* latin-ext */
+@font-face {
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local('Arial'), local('Arial'), 
+}
+/* latin */
+@font-face {
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local('Arial'), local('Arial'), 
+}
+
+
+@font-face {
+    font-family: MyriadPro-Regular;
+    src: url('../../../Fonts/Myriad Pro Bold SemiExtended.ttf' ) format("truetype");
+} 
+
